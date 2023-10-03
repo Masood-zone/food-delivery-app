@@ -1,0 +1,20 @@
+{
+  "name": "@here/maps-api-for-javascript",
+  "description": "HERE Maps for JavaScript API",
+  "homepage": "https://developer.here.com/develop/javascript-api",
+  "version": "1.46.0",
+  "main": "bin/mapsjs.bundle.js",
+  "types": "bin/index.d.ts",
+  "author": {
+    "name": "HERE Global B.V. and its affiliate(s)",
+    "url": "https://here.com"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "keywords": [
+    "HERE",
+    "maps",
+    "API",
+    "JavaScript",
+    "browser"
+  ]
+}
